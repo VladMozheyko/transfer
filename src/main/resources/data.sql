@@ -1,0 +1,2 @@
+INSERT INTO account VALUES (NULL, "Vlad", 11000);
+INSERT INTO account VALUES (NULL, "Katya", 1000 );
